@@ -1,0 +1,27 @@
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\bin\Debug\netcoreapp2.1\GreenHubBackEnd.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\GreenHubBackEnd\obj\Debug\netcoreapp2.1\GreenHubBackEnd.pdb

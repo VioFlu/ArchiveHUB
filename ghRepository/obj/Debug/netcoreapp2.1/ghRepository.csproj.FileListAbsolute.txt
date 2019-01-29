@@ -1,0 +1,42 @@
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghContract.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghEntities.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghContract.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghEntities.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csproj.CopyComplete
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghContract.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghEntities.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghContract.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\bin\Debug\netcoreapp2.1\ghEntities.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csproj.CopyComplete
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\bin\Debug\netcoreapp2.1\ghRepository.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\bin\Debug\netcoreapp2.1\ghContract.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\bin\Debug\netcoreapp2.1\ghEntities.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\bin\Debug\netcoreapp2.1\ghContract.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\bin\Debug\netcoreapp2.1\ghEntities.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.csproj.CopyComplete
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\ghRepository\obj\Debug\netcoreapp2.1\ghRepository.pdb

@@ -1,0 +1,42 @@
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\ghContract.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\ghEntities.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\ghContract.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\ghEntities.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csproj.CopyComplete
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\2_Try\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\ghContract.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\ghEntities.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\ghContract.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\bin\Debug\netcoreapp2.1\ghEntities.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csproj.CopyComplete
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.deps.json
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\bin\Debug\netcoreapp2.1\LoggingService.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\bin\Debug\netcoreapp2.1\ghContract.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\bin\Debug\netcoreapp2.1\ghEntities.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\bin\Debug\netcoreapp2.1\ghContract.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\bin\Debug\netcoreapp2.1\ghEntities.pdb
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csprojAssemblyReference.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csproj.CoreCompileInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.AssemblyInfoInputs.cache
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.AssemblyInfo.cs
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.csproj.CopyComplete
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.dll
+C:\Viorica's stuff\MyWork\Z-GreenHub\ghArchiveAPI_Successful\ZGreenHub – Kopi\LoggingService\obj\Debug\netcoreapp2.1\LoggingService.pdb
